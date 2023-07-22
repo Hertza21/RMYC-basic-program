@@ -1,0 +1,16 @@
+RMYC-basic-program
+#这是一个RMYC的代码开源项目，其中包含两个部分，分别是完整程序与功能性封装程序（这类程序有特殊标注）。 
+#完整程序可供参赛队伍经过调试后直接使用，可以在RMYC比赛中直接完成一定的功能。 
+#功能性封装程序包括了RMYC中许多基本功能的实现，可供参赛队伍拼装组合设计新的程序，或者是学习基本功能的实现方法，从而获得自主设计RMYC程序的技能。 
+#RMYC的程序在不同的场地上会有很大的区别，所以请不要直接将程序直接运用到赛场上，一定要经过自己的调试。
+ #如果你觉得我的程序帮助到了你，麻烦帮我的github项目点一颗星，十分感谢。
+ #本人QQ号：1415356160，如果在RMYC开发中遇到任何问题，欢迎加我QQ学习讨论。
+ #本人B站账号：Hertza,里面有很多RMYC教程，欢迎RMYC爱好者一起交流学习。
+
+#This is an open-source project for RMYC code, which includes two parts: complete programs and functional encapsulation programs (these programs are specially marked). 
+#The complete programs can be directly used by participating teams after debugging, enabling them to accomplish certain functions in RMYC competitions. 
+#The functional encapsulation programs include the implementation of many basic functions in RMYC. They can be used by participating teams to assemble and design new programs or learn the methods of implementing basic functions, thus acquiring the skills to independently design RMYC programs. 
+#RMYC programs vary greatly in different venues, so please do not directly apply the programs to the competition field; they must be debugged by yourself. 
+#If you find my programs helpful, please kindly give my project a star. Thank you very much. 
+#My QQ number: 1415356160. If you encounter any problems during RMYC development, feel free to add me on QQ for learning and discussion. 
+#My Bilibili account: Hertza, where you can find many RMYC tutorials. RMYC enthusiasts are welcome to exchange and learn together.
