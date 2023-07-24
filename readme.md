@@ -12,7 +12,7 @@ RMYC的程序在不同的场地上会有很大的区别，所以请不要直接�
 
 本人QQ号：1415356160，如果在RMYC开发中遇到任何问题，欢迎加我QQ学习讨论。
 
-本人B站账号：Hertza,里面有很多RMYC教程，欢迎RMYC爱好者一起交流学习。
+本人B站账号：[Hertza](https://space.bilibili.com/454333394),里面有很多RMYC教程，欢迎RMYC爱好者一起交流学习。
 
 This is an open-source project for RMYC code, which includes two parts: complete programs and functional encapsulation programs (these programs are specially marked).
 
@@ -26,4 +26,4 @@ If you find my programs helpful, please kindly give my project a star. Thank you
 
 My QQ number: 1415356160. If you encounter any problems during RMYC development, feel free to add me on QQ for learning and discussion.
 
-My Bilibili account: [Hertza](https://space.bilibili.com/454333394/), where you can find many RMYC tutorials. RMYC enthusiasts are welcome to exchange and learn together.
+My Bilibili account: [Hertza](https://space.bilibili.com/454333394), where you can find many RMYC tutorials. RMYC enthusiasts are welcome to exchange and learn together.
